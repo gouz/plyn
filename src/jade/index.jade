@@ -1,0 +1,13 @@
+doctype html
+html 
+  head
+    link(rel="stylesheet", href="../photon/dist/css/photon.min.css")
+    link(rel="stylesheet", href="../node_modules/highlight.js/styles/github.css")
+    link(rel="stylesheet", href="app.css")
+  body
+    .window
+      header.toolbar.toolbar-header
+        include inc/toolbar
+      .window-content
+        include inc/main
+    script(src="app.js")
