@@ -26,7 +26,7 @@ app.on('ready', function() {
     height: 600,
     'accept-first-mouse': true,
     'title-bar-style': 'hidden',
-    title: 'AlphaBeta'
+    title: 'Plyn'
   });
 
   // and load the index.html of the app.

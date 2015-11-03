@@ -1,6 +1,21 @@
 .pane-group
   #js-pane-book.pane.pane-sm.sidebar
     include panes/notelist
-  #js-pane-editor.pane.padded-less
-    textarea#js-textarea.form-control
-  #js-pane-preview.pane.padded-less
+  .pane
+    #main
+      #tabs
+        .tab-group
+          .tab-item
+            span.icon.icon-cancel.icon-close-tab
+            |Tab 1
+          .tab-item
+            span.icon.icon-cancel.icon-close-tab
+            |Tab 2*
+          .tab-item.active
+            span.icon.icon-cancel.icon-close-tab
+            |Tab 3
+      #editor
+        .pane-group
+          #js-pane-editor.pane.padded-less
+            textarea#js-textarea.form-control
+          #js-pane-preview.pane.padded-less
