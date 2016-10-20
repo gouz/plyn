@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <path d="M 500,0 L 500,618 L 191,618 Z" style="stroke: #54DEFD; fill: #54DEFD;" />
+
+  <path d="M 500,0 L 500,618 L 650,382 Z" style="stroke: #03A8CF; fill: #03A8CF;" />
+  <path d="M 500,618 L 650,382 L 809,618 Z" style="stroke: #8EE9FE; fill: #8EE9FE;" />
+
+  <path d="M 500,618 L 191,618 L 382,809 Z" style="stroke: #03A8CF; fill: #03A8CF;" />
+  <path d="M 500,1000 L 382,809 L 300,1000 Z" style="stroke: #54DEFD; fill: #54DEFD;" />
+  <path d="M 382,809 L 300,1000 L 191,618 Z" style="stroke: #8EE9FE; fill: #8EE9FE;" />
+
+  <path d="M 500,618 L 809,618 L 618,809 Z" style="stroke: #54DEFD; fill: #54DEFD;" />
+  <path d="M 500,1000 L 618,809 L 700,1000 Z" style="stroke: #03A8CF; fill: #03A8CF;" />
+  <path d="M 618,809 L 700,1000 L 809,618 Z" style="stroke: #8EE9FE; fill: #8EE9FE;" />
+
+  <path d="M 500,618 L 618,809 L 382,809 Z" style="stroke: #E5FAFF; fill: #E5FAFF;" />
+  <path d="M 500,1000 L 618,809 L 382,809 Z" style="stroke: #F1F1FF; fill: #F1F1FF;" />
+
+  <path d="M 191,1000 L 809,1000  L 809,980 L 191,980 Z" style="stroke: #134B58; fill: #134B58;" />
+
+</svg>
